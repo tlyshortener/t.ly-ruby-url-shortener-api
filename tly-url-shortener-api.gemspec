@@ -16,8 +16,8 @@ Gem::Specification.new do |spec|
 
   spec.metadata = {
     "homepage_uri" => spec.homepage,
-    "source_code_uri" => "https://github.com/tly/url-shortener-ruby",
-    "changelog_uri" => "https://github.com/tly/url-shortener-ruby/blob/main/CHANGELOG.md"
+    "source_code_uri" => "https://github.com/tlyshortener/t.ly-ruby-url-shortener-api",
+    "changelog_uri" => "https://github.com/tlyshortener/t.ly-ruby-url-shortener-api/blob/main/CHANGELOG.md"
   }
 
   spec.files = Dir.chdir(__dir__) do
