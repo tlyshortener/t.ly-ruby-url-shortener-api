@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1 - 2026-02-18
+
+- Updated gem metadata URLs to the canonical repository:
+  - `source_code_uri`: `https://github.com/tlyshortener/t.ly-ruby-url-shortener-api`
+  - `changelog_uri`: `https://github.com/tlyshortener/t.ly-ruby-url-shortener-api/blob/main/CHANGELOG.md`
+
 ## 0.1.0 - 2026-02-17
 
 - Initial release.
